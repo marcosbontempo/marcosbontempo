@@ -1,9 +1,13 @@
+<div align="center">
+
 # Hello, I'm Marcos Bontempo 👋
 
 **Senior AI Engineer | Agentic Orchestration · LLMs · RAG | Machine Learning · MLOps**<br>
 **13x AWS · GCP · Kubernetes Certified | Building AI Systems for US & Global Companies**
 
 📍 Brazil · Remote (GMT-3)
+
+</div>
 
 ---
 
